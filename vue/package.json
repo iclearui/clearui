@@ -1,0 +1,30 @@
+{
+  "name": "@clearui/vue",
+  "version": "0.0.3",
+  "description": "clear.js ui component",
+  "main": "../dist/clear-ui-vue.umd.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "codemirror": "^5.60.0",
+    "core-js": "^3.6.5",
+    "jsbarcode": "^3.11.3",
+    "moment": "^2.29.1",
+    "qrcode": "^1.4.4",
+    "viewerjs": "^1.9.0",
+    "vue": "^2.6.11",
+    "vue-codemirror": "^4.0.6",
+    "wangeditor": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iclearui/clearui.git"
+  },
+  "author": "mail_xyc@sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iclearui/clearui/issues"
+  },
+  "homepage": "https://github.com/iclearui/clearui#readme"
+}
